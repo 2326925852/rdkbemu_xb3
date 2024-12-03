@@ -16,7 +16,7 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-##########################################################################
+##########################################################################  //zhangyt
 
 #WEBGUI_SRC=/fss/gw/usr/www/html.tar.bz2
 #WEBGUI_DEST=/var/www
